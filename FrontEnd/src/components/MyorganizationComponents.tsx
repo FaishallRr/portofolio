@@ -146,7 +146,7 @@ const MyorganizationComponents = () => {
                   data-aos-duration="1000"
                   data-aos-once="true"
                 >
-                  <p
+                  <div
                     className={`font-semibold bg-[#1a1a1a] px-3 py-1.5 rounded-full border border-gray-700 hover:bg-[#222] transition-colors ${PoppinsRegular.className}`}
                   >
                     <ShinyText
@@ -155,9 +155,9 @@ const MyorganizationComponents = () => {
                       speed={3}
                       className={`text-xs sm:text-sm text-violet-400 ${PoppinsRegular.className}`}
                     />
-                  </p>
+                  </div>
 
-                  <p
+                  <div
                     className={`font-semibold bg-[#1a1a1a] px-3 py-1.5 rounded-full border border-gray-700 hover:bg-[#222] transition-colors ${PoppinsRegular.className}`}
                   >
                     <ShinyText
@@ -166,8 +166,8 @@ const MyorganizationComponents = () => {
                       speed={3}
                       className={`text-xs sm:text-sm text-violet-400 ${PoppinsRegular.className}`}
                     />
-                  </p>
-                  <p
+                  </div>
+                  <div
                     className={`font-semibold bg-[#1a1a1a] px-3 py-1.5 rounded-full border border-gray-700 hover:bg-[#222] transition-colors ${PoppinsRegular.className}`}
                   >
                     <ShinyText
@@ -176,9 +176,9 @@ const MyorganizationComponents = () => {
                       speed={3}
                       className={`text-xs sm:text-sm text-violet-400 ${PoppinsRegular.className}`}
                     />
-                  </p>
+                  </div>
 
-                  <p
+                  <div
                     className={`font-semibold bg-[#1a1a1a] px-3 py-1.5 rounded-full border border-gray-700 hover:bg-[#222] transition-colors ${PoppinsRegular.className}`}
                   >
                     <ShinyText
@@ -187,7 +187,7 @@ const MyorganizationComponents = () => {
                       speed={3}
                       className={`text-xs sm:text-sm text-violet-400 ${PoppinsRegular.className}`}
                     />
-                  </p>
+                  </div>
                 </div>
               </div>
             </SpotlightCard>
